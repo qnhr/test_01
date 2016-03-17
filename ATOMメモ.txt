@@ -2,6 +2,9 @@
 
 ★★　追記 01 ですよ　★★
 ★★　追記 02 ですよ　★★
+★★　追記 03 ですよ　★★
+★★　追記 4かな?　★★
+
 
 Atom でインストールしている package 一覧
 http://qiita.com/iorionda/items/b108e73e51ff40049c60
